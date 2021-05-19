@@ -6,7 +6,7 @@
 팀명: 21세기 코딩계의 피카소
 팀원: 김석환, 이선엽(팀장)
 
-구성     
+구성    
 1. Main
 - 배너: 팀명      *a태그로 Main 가기
 - 메인: 피카소 [https://www.sac.or.kr/site/main/show/show_view?SN=43527#n]
@@ -24,4 +24,4 @@
 3. 작품_Detail - 노가다(작품마다 설명 페이지를 만들어야 함)
 - 작품 설명
 - 버튼 2개      *Main으로 돌아가기, Gallery로 돌아가기
-- footer: 학번, 이름, ;copy, 팀명,
+- footer: 학번, 이름,  ;copy, 팀명, 
