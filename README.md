@@ -4,8 +4,9 @@
 미술 작품 소개 및 미니게임
 
 팀명: 21세기 코딩계의 피카소
+팀원: 김석환, 이선엽(팀장)
 
-구성     *기능
+구성     
 1. Main
 - 배너: 팀명      *a태그로 Main 가기
 - 메인: 피카소 [https://www.sac.or.kr/site/main/show/show_view?SN=43527#n]
