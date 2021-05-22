@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="./css/main.css" />
     <link rel="stylesheet" href="./css/gallery.css" />
     <link rel="stylesheet" href="./css/sakura.css" />
+    <link rel="stylesheet" href="./css/detail.css" />
   </head>
   <body>
     <div id="wrap">
@@ -19,22 +20,22 @@
       </div>
 
       <div class="main">
-        <dl>
-          <dt>
+        <div class="main_dl">
+          <div class="main_dt">
             <p class="main_title">
               <span>피카소 탄생 140주년 특별전</span>
             </p>
             <ul>
               <li>
-                <span class="tit">기간</span>
+                <span class="tit">전시기간</span>
                 <span>2021-05-01~2021-08-29</span>
               </li>
               <li>
-                <span class="tit">시간</span>
+                <span class="tit">전시시간</span>
                 <span>10:00~19:00(매주 월요일 휴관)</span>
               </li>
               <li>
-                <span class="tit">장소</span>
+                <span class="tit">전시장소</span>
                 <span>한가람미술관 제 1전시실, 한가람미술관 제 2전시실</span>
               </li>
               <li>
@@ -46,34 +47,47 @@
                 <span>18:20</span>
               </li>
               <li>
-                <span class="tit">가격</span>
+                <span class="tit">입장가격</span>
                 <span
                   >일반 20,000원/ 청소년(18세 이하)13,000원/ 어린이(12세
                   이하)11,000 / 유아(만 6세 이하)8,000원</span
                 >
               </li>
               <li>
-                <span class="tit">주최</span>
+                <span class="tit">주최기관</span>
                 <span>센터뮤지엄랩</span>
               </li>
               <li>
-                <span class="tit">주관</span>
+                <span class="tit">주관업체</span>
                 <span>(주)비채아트뮤지엄</span>
               </li>
               <li>
-                <span class="tit">문의</span>
+                <span class="tit">문의전화</span>
                 <span>1661-1670</span>
               </li>
             </ul>
-          </dt>
-        </dl>
-        <dd>
-          <p>
-            <img src="./images/main_poster.jpg" alt="" />
-            <span><a href="./gallery.html">갤러리 가기</a></span>
-          </p>
-        </dd>
+          </div>
+
+          <div class="main_dd">
+            <img src="images/main_poster.jpg" alt="main_poster" />
+            <a href="./gallery.html">갤러리 가기</a>
+          </div>
+        </div>
       </div>
+
+      <hr class="hr_effect" data-content="Location" />
+
+      <div class="map">
+        <p class="map_title">
+          <span>박물관 오시는 길</span>
+        </p>
+        <div class="map_img">
+          <a href="http://kko.to/4peMH4mD0">
+            <img src="./images/map.png" />
+          </a>
+        </div>
+      </div>
+
       <div class="footer">
         <img src="./images/banner.png" class="header_a footer_a" />
         <div class="footer_text">
@@ -81,6 +95,7 @@
           <span>copyright &copy; 2021 DCU team 21ST CENTURY PICASSO.</span>
         </div>
       </div>
+
       <script src="./js/sakura.js" text="text/javascript"></script>
       <script>
         var sakura = new Sakura("body", {
