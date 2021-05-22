@@ -57,6 +57,8 @@ body {
   width: 25vw;
   height: 25vw;
   padding-bottom: 10px;
+  min-width: 150px;
+  min-height: 150px;
 }
 
 .main_dd a {
