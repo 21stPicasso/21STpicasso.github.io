@@ -12,7 +12,7 @@ body {
 .main {
   width: 100vw;
   height: 65vh;
-  background: url(../images/main_dt_background.gif) center top;
+  background: url(../images/main_dt_background.gif) no-repeat center top;
 }
 
 .main_dt .main_title span {
@@ -53,8 +53,10 @@ body {
 }
 
 .main_dd img {
-  width: 250px;
-  height: 250px;
+  padding-top: 20px;
+  width: 25vw;
+  height: 25vw;
+  padding-bottom: 10px;
 }
 
 .main_dd a {
