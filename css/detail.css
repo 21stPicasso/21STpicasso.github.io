@@ -13,7 +13,7 @@
 }
 .detail_t {
   font-size: calc(12px + 1vw);
-  padding-top: 1vw;
+  padding-top: 10px;
 }
 .detail_text_title {
   padding-bottom: calc(15px + 1vw);
