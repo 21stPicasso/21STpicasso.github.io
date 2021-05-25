@@ -94,13 +94,13 @@ body {
 
 .map_info {
   color: black;
-  font-size: 1vw;
+  font-size: calc(10px + 0.5vw);
   line-height: 2.5vw;
   padding-left: 20px;
 }
 
 .map_trans {
-  font-size: 2vw;
+  font-size: calc(13px + 0.5vw);
   color: #f8b878;
   font-weight: bold;
 }
