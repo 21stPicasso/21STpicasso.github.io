@@ -102,7 +102,7 @@ button:hover {
   justify-content: center;
 }
 .modal_content {
-  width: 80%;
+  width: 95%;
   height: 50vw;
   min-height: 400px;
   max-height: 800px;
