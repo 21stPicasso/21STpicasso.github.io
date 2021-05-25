@@ -94,7 +94,7 @@ body {
 
 .map_info {
   color: black;
-  font-size: calc(10px + 0.5vw);
+  font-size: calc(8px + 0.5vw);
   line-height: 2.5vw;
   padding-left: 20px;
 }
