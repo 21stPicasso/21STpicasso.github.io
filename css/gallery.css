@@ -102,8 +102,10 @@ button:hover {
   justify-content: center;
 }
 .modal_content {
-  width: 60%;
+  width: 80%;
   height: 50vw;
+  min-height: 400px;
+  max-height: 800px;
   background-color: white;
   text-align: center;
   border-radius: 6px;
@@ -111,12 +113,12 @@ button:hover {
 }
 .modal_title {
   padding-top: 40px;
-  font-size: 2vw;
+  font-size: calc(20px + 0.5vw);
   font-weight: bold;
 }
 .modal_text {
   padding-top: 20px;
-  font-size: 1.5vw;
+  font-size: calc(15px + 0.5vw);
   font-weight: bold;
 }
 .modal_image {
@@ -129,10 +131,14 @@ button:hover {
 .modal_puzzle_original {
   width: 23vw;
   height: 22vw;
+  min-width: 150px;
+  min-height: 150px;
 }
 .modal_puzzle {
   width: 23vw;
   height: 22vw;
+  min-width: 150px;
+  min-height: 150px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -141,6 +147,8 @@ button:hover {
 .box {
   width: 7vw;
   height: 7vw;
+  min-width: 45px;
+  min-height: 45px;
   border: 1px solid wheat;
   cursor: pointer;
 }
@@ -151,4 +159,6 @@ button:hover {
 .modal_original {
   width: 23vw;
   height: 22vw;
+  min-width: 150px;
+  min-height: 150px;
 }
