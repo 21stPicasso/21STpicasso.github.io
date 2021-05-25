@@ -12,11 +12,11 @@
   border: 5px solid #bb8c6e;
 }
 .detail_t {
-  font-size: calc(12px + 0.5vw);
+  font-size: calc(12px + 1vw);
   padding-top: 1vw;
 }
 .detail_text_title {
-  padding-bottom: calc(15px + 0.5vw);
+  padding-bottom: calc(15px + 1vw);
   font-weight: bold;
 }
 .detail_top {
