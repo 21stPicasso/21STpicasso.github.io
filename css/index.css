@@ -41,7 +41,7 @@ body {
 }
 
 .main_dt ul li span {
-  font-size: calc(13px + 0.5vw);
+  font-size: calc(10px + 0.5vw);
   color: #fff;
   padding-left: 23px;
 }
