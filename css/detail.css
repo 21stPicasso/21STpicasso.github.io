@@ -1,20 +1,22 @@
 .detail_img {
   width: 28vw;
   height: 42vw;
+  min-width: 200px;
+  min-height: 300px;
   border: 5px solid #bb8c6e;
 }
 .detail_text {
   border-radius: 25px;
   background-color: #f0f8ff;
-  padding: 8vw;
+  padding: 5vw;
   border: 5px solid #bb8c6e;
 }
 .detail_t {
-  font-size: 25px;
+  font-size: calc(20px + 0.5vw);
   padding-top: 1vw;
 }
 .detail_text_title {
-  padding-bottom: 20px;
+  padding-bottom: calc(20px + 0.5vw);
   font-weight: bold;
 }
 .detail_top {
