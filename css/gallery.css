@@ -147,8 +147,8 @@ button:hover {
 .box {
   width: 7vw;
   height: 7vw;
-  min-width: 45px;
-  min-height: 45px;
+  min-width: 48px;
+  min-height: 48px;
   border: 1px solid wheat;
   cursor: pointer;
 }
