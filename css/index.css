@@ -100,7 +100,7 @@ body {
 }
 
 .map_trans {
-  font-size: calc(13px + 0.5vw);
+  font-size: 3vw;
   color: #f8b878;
   font-weight: bold;
 }
