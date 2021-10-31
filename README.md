@@ -1,7 +1,7 @@
 # 21STpicasso.github.io
 21ST Picasso project
 
-[21세기 피카소](http://www.21STpicasso.github.io)
+[21세기 피카소](http://21STpicasso.github.io)
 
 팀명: 21세기 코딩계의 피카소
 
