@@ -1,7 +1,7 @@
 # 21STpicasso.github.io
 21ST Picasso project
 
-미술 작품 소개 및 미니게임
+[21세기 피카소](21STpicasso.github.io)
 
 팀명: 21세기 코딩계의 피카소
 
